@@ -1,0 +1,23 @@
+{
+  "name": "node-chat",
+  "version": "1.0.0",
+  "description": "Node Soket.io로 구현하는 채팅",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InSeok9068/Node-Chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InSeok9068/Node-Chat/issues"
+  },
+  "homepage": "https://github.com/InSeok9068/Node-Chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
